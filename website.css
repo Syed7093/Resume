@@ -1,0 +1,34 @@
+/* table{
+    width: 1000px;
+} */
+.Heading1{
+    color: #116A7B
+}
+h2{
+    color: #116A7B;
+}
+body{
+    background-color: #C2DEDC;
+    color: #054a68;
+}
+
+hr{
+    text-decoration: dotted;
+    width: 500px;
+    border-radius: 10px;
+}
+p{
+    font-size: 20px;
+    color: #054a68;
+}
+h1{
+    color: #116A7B
+}
+
+button{
+    background-color:#C2DEDC;
+    color: #054a68 ;
+    position: relative;
+    left:500px;
+    border-radius: 10px;
+}
